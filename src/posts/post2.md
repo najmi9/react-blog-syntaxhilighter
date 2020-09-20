@@ -5,7 +5,7 @@ cool block
 ```
 ___
 
-
 ```bash
+#bash code
 sudo apt-get update
 ```

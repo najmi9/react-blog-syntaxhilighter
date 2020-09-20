@@ -6,7 +6,7 @@ import MarkDown from '../../components/markdown/markdown_parser';
 
 const Post1 = () => {
     return (
-         <div className="main">
+         <div style={{ "margin":60 + "px"}}>
         	<MarkDown content={content} />
         </div>
     );

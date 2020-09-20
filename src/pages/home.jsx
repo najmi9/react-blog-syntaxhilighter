@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 const Home = () => {
     return (
-         <div>
+         <div style={{ "margin":60 + "px"}}>
             <h1>Welcome To my Blog !</h1>
             <div className="posts">
                <p> <Link to="/blog/post1"> Post1 </Link></p>
